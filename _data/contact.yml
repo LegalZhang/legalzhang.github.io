@@ -2,17 +2,21 @@
 
 - type: github
   icon: "fab fa-github"
-
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+  url: https://github.com/LegalZhang
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
   noblank: true
+  url: mailto:LegalZhang@outlook.com
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: https://www.linkedin.com/in/jiahao-zhang-878a632b6/
+
+- type: instagram
+  icon: "fab fa-instagram"
+  url: https://www.instagram.com/legal0119/
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
