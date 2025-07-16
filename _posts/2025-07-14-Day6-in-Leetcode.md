@@ -1,5 +1,5 @@
 ---
-title: Day5 in Leetcode
+title: Day6 in Leetcode
 date: 2025-07-14
 categories: [Leetcode]
 tags: [Leetcode, Algorithm]
