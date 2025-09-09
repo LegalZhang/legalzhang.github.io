@@ -1,6 +1,6 @@
 ---
-title: Day47 in Leetcode
-date: 2025-08-24
+title: Day56 in Leetcode
+date: 2025-09-02
 categories: [Leetcode]
 tags: [Leetcode, Algorithm]
 ---
